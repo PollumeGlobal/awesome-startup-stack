@@ -40,6 +40,7 @@ We put this list together at Pollume while building products for startups across
 
 - [Loops](https://loops.so) - Email platform built for SaaS products. The workflow builder is more intuitive than most alternatives and it integrates cleanly with modern stacks.
 - [Beehiiv](https://beehiiv.com) - Newsletter platform with solid built-in growth tools. Worth considering if content is a real part of your distribution strategy.
+- [GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 - [Plausible](https://plausible.io) - Privacy-friendly analytics that you can self-host. Much lighter than GA4 and the dashboard shows you what you actually need.
 - [PostHog](https://posthog.com) - Product analytics, session recordings, feature flags, and A/B testing in one open-source tool. Replaces several separate products.
 - [Cal.com](https://cal.com) - Open-source scheduling tool. A good Calendly replacement if you want to own your data and avoid paying per seat.
